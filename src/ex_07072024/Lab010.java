@@ -6,5 +6,6 @@ public class Lab010 {
         char c ='a';
         //System.out.println(enum);
         System.out.println('c');
+        System.out.println(c);
     }
 }
