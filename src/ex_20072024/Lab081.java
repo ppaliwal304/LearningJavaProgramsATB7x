@@ -46,7 +46,7 @@ public class Lab081 {
         System.out.println("  ---- === Outside the Switch loop === -----");
 
 
-
+           //scn.close();
 
 
 
