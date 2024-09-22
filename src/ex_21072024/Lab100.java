@@ -12,5 +12,6 @@ public class Lab100 {
             System.out.println("inside the do loop "+ i);// output-- inside the do loop
             ++i;
         }while(i<10);
+        System.out.println(i);
     }
 }
